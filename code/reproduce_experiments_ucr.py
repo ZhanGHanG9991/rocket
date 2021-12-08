@@ -48,7 +48,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-d", "--dataset_names", required = True)
 parser.add_argument("-i", "--input_path", required = True)
 parser.add_argument("-o", "--output_path", required = True)
-parser.add_argument("-n", "--num_runs", type = int, default = 10)
+parser.add_argument("-n", "--num_runs", type = int, default = 5)
 parser.add_argument("-k", "--num_kernels", type = int, default = 10_000)
 
 arguments = parser.parse_args()
@@ -61,24 +61,25 @@ results = pd.DataFrame(index = dataset_names,
                        columns = ["accuracy_mean",
                                   "accuracy_standard_deviation",
                                   "time_training_seconds",
-                                  "time_test_seconds"],
+                                  "time_test_seconds",
+                                  "time_transform_seconds"],
                        data = 0)
 results.index.name = "dataset"
 
 print(f"RUNNING".center(80, "="))
 
 for dataset_name in dataset_names:
-
+    print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
     print(f"{dataset_name}".center(80, "-"))
 
     # -- read data -------------------------------------------------------------
 
     print(f"Loading data".ljust(80 - 5, "."), end = "", flush = True)
 
-    training_data = np.loadtxt(f"{arguments.input_path}/{dataset_name}/{dataset_name}_TRAIN.txt")
+    training_data = np.loadtxt(f"{arguments.input_path}/{dataset_name}/{dataset_name}_TRAIN.tsv")
     Y_training, X_training = training_data[:, 0].astype(np.int32), training_data[:, 1:]
 
-    test_data = np.loadtxt(f"{arguments.input_path}/{dataset_name}/{dataset_name}_TEST.txt")
+    test_data = np.loadtxt(f"{arguments.input_path}/{dataset_name}/{dataset_name}_TEST.tsv")
     Y_test, X_test = test_data[:, 0].astype(np.int32), test_data[:, 1:]
 
     print("Done.")
@@ -132,6 +133,8 @@ for dataset_name in dataset_names:
     results.loc[dataset_name, "accuracy_standard_deviation"] = _results.std()
     results.loc[dataset_name, "time_training_seconds"] = _timings.mean(1)[[0, 2]].sum()
     results.loc[dataset_name, "time_test_seconds"] = _timings.mean(1)[[1, 3]].sum()
+    results.loc[dataset_name, "time_transform_seconds"] = _timings.mean(1)[[0, 1]].sum()
+    print(results.loc[dataset_name])
 
 print(f"FINISHED".center(80, "="))
 

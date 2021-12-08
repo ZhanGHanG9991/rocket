@@ -1,0 +1,1284 @@
+/home/zh/.local/lib/python3.6/site-packages/numba/core/errors.py:154: UserWarning: Insufficiently recent colorama version found. Numba requires colorama >= 0.3.9
+  warnings.warn(msg)
+====================================RUNNING=====================================
+2021-12-08 02:39:42
+-------------------------------------ACSF1--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.884000
+accuracy_standard_deviation    0.008000
+time_training_seconds          2.227721
+time_test_seconds              2.095262
+time_transform_seconds         4.228205
+Name: ACSF1, dtype: float64
+2021-12-08 02:40:04
+-------------------------------------Adiac--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.780563
+accuracy_standard_deviation    0.009487
+time_training_seconds          1.296286
+time_test_seconds              0.939656
+time_transform_seconds         1.828387
+Name: Adiac, dtype: float64
+2021-12-08 02:40:16
+-------------------------------AllGestureWiimoteX-------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.773714
+accuracy_standard_deviation    0.005613
+time_training_seconds          2.240317
+time_test_seconds              4.546384
+time_transform_seconds         6.502856
+Name: AllGestureWiimoteX, dtype: float64
+2021-12-08 02:40:50
+-------------------------------AllGestureWiimoteY-------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.787429
+accuracy_standard_deviation    0.004371
+time_training_seconds          2.259488
+time_test_seconds              4.553115
+time_transform_seconds         6.533501
+Name: AllGestureWiimoteY, dtype: float64
+2021-12-08 02:41:24
+-------------------------------AllGestureWiimoteZ-------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.765143
+accuracy_standard_deviation    0.006676
+time_training_seconds          2.268345
+time_test_seconds              4.571773
+time_transform_seconds         6.520922
+Name: AllGestureWiimoteZ, dtype: float64
+2021-12-08 02:41:59
+-----------------------------------ArrowHead------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.819429
+accuracy_standard_deviation    0.009285
+time_training_seconds          0.230739
+time_test_seconds              0.596915
+time_transform_seconds         0.799454
+Name: ArrowHead, dtype: float64
+2021-12-08 02:42:03
+--------------------------------------BME---------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  1.000000
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.141556
+time_test_seconds              0.263195
+time_transform_seconds         0.381004
+Name: BME, dtype: float64
+2021-12-08 02:42:05
+--------------------------------------Beef--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.833333
+accuracy_standard_deviation    0.021082
+time_training_seconds          0.281457
+time_test_seconds              0.195554
+time_transform_seconds         0.456395
+Name: Beef, dtype: float64
+2021-12-08 02:42:08
+-----------------------------------BeetleFly------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.900000
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.280337
+time_test_seconds              0.186435
+time_transform_seconds         0.449606
+Name: BeetleFly, dtype: float64
+2021-12-08 02:42:10
+----------------------------------BirdChicken-----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.900000
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.268507
+time_test_seconds              0.190755
+time_transform_seconds         0.444164
+Name: BirdChicken, dtype: float64
+2021-12-08 02:42:13
+--------------------------------------CBF---------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  1.000000
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.122972
+time_test_seconds              1.495408
+time_transform_seconds         1.563760
+Name: CBF, dtype: float64
+2021-12-08 02:42:21
+--------------------------------------Car---------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.870000
+accuracy_standard_deviation    0.030551
+time_training_seconds          0.571753
+time_test_seconds              0.481915
+time_transform_seconds         1.019633
+Name: Car, dtype: float64
+2021-12-08 02:42:26
+-----------------------------------Chinatown------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.982507
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.064073
+time_test_seconds              0.160545
+time_transform_seconds         0.205754
+Name: Chinatown, dtype: float64
+2021-12-08 02:42:27
+-----------------------------ChlorineConcentration------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.815469
+accuracy_standard_deviation    0.003740
+time_training_seconds          1.402926
+time_test_seconds              8.097710
+time_transform_seconds         9.008839
+Name: ChlorineConcentration, dtype: float64
+2021-12-08 02:43:15
+----------------------------------CinCECGTorso----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.833043
+accuracy_standard_deviation     0.006868
+time_training_seconds           1.091035
+time_test_seconds              29.672257
+time_transform_seconds         30.662170
+Name: CinCECGTorso, dtype: float64
+2021-12-08 02:45:50
+-------------------------------------Coffee-------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  1.000000
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.213242
+time_test_seconds              0.134749
+time_transform_seconds         0.329403
+Name: Coffee, dtype: float64
+2021-12-08 02:45:52
+-----------------------------------Computers------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.758400
+accuracy_standard_deviation    0.006499
+time_training_seconds          2.687194
+time_test_seconds              2.458085
+time_transform_seconds         4.904529
+Name: Computers, dtype: float64
+2021-12-08 02:46:18
+------------------------------------CricketX------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.821026
+accuracy_standard_deviation    0.003768
+time_training_seconds          1.892412
+time_test_seconds              1.569153
+time_transform_seconds         3.107661
+Name: CricketX, dtype: float64
+2021-12-08 02:46:36
+------------------------------------CricketY------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.849231
+accuracy_standard_deviation    0.004411
+time_training_seconds          1.971599
+time_test_seconds              1.627177
+time_transform_seconds         3.197044
+Name: CricketY, dtype: float64
+2021-12-08 02:46:54
+------------------------------------CricketZ------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.852821
+accuracy_standard_deviation    0.011983
+time_training_seconds          1.891688
+time_test_seconds              1.537937
+time_transform_seconds         3.082016
+Name: CricketZ, dtype: float64
+2021-12-08 02:47:12
+--------------------------------------Crop--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.766310
+accuracy_standard_deviation     0.001193
+time_training_seconds          46.374179
+time_test_seconds              10.595598
+time_transform_seconds         13.806695
+Name: Crop, dtype: float64
+2021-12-08 02:51:57
+------------------------------DiatomSizeReduction-------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.972549
+accuracy_standard_deviation    0.001601
+time_training_seconds          0.194968
+time_test_seconds              1.421882
+time_transform_seconds         1.591373
+Name: DiatomSizeReduction, dtype: float64
+2021-12-08 02:52:05
+--------------------------DistalPhalanxOutlineAgeGroup--------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.758273
+accuracy_standard_deviation    0.008633
+time_training_seconds          0.802205
+time_test_seconds              0.166767
+time_transform_seconds         0.625469
+Name: DistalPhalanxOutlineAgeGroup, dtype: float64
+2021-12-08 02:52:10
+--------------------------DistalPhalanxOutlineCorrect---------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.776812
+accuracy_standard_deviation    0.001775
+time_training_seconds          1.159906
+time_test_seconds              0.301062
+time_transform_seconds         0.950232
+Name: DistalPhalanxOutlineCorrect, dtype: float64
+2021-12-08 02:52:18
+--------------------------------DistalPhalanxTW---------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.715108
+accuracy_standard_deviation    0.003524
+time_training_seconds          0.807072
+time_test_seconds              0.170862
+time_transform_seconds         0.635210
+Name: DistalPhalanxTW, dtype: float64
+2021-12-08 02:52:23
+---------------------------------DodgerLoopDay----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.582500
+accuracy_standard_deviation    0.006124
+time_training_seconds          0.424459
+time_test_seconds              0.340344
+time_transform_seconds         0.719509
+Name: DodgerLoopDay, dtype: float64
+2021-12-08 02:52:27
+---------------------------------DodgerLoopGame---------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.869565
+accuracy_standard_deviation    0.006481
+time_training_seconds          0.197592
+time_test_seconds              0.539763
+time_transform_seconds         0.719172
+Name: DodgerLoopGame, dtype: float64
+2021-12-08 02:52:31
+-------------------------------DodgerLoopWeekend--------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.976812
+accuracy_standard_deviation    0.002899
+time_training_seconds          0.191657
+time_test_seconds              0.553029
+time_transform_seconds         0.731341
+Name: DodgerLoopWeekend, dtype: float64
+2021-12-08 02:52:34
+-------------------------------------ECG200-------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.904000
+accuracy_standard_deviation    0.004899
+time_training_seconds          0.298006
+time_test_seconds              0.140025
+time_transform_seconds         0.342939
+Name: ECG200, dtype: float64
+2021-12-08 02:52:37
+------------------------------------ECG5000-------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.947467
+accuracy_standard_deviation    0.000638
+time_training_seconds          1.367330
+time_test_seconds              8.006444
+time_transform_seconds         8.787147
+Name: ECG5000, dtype: float64
+2021-12-08 02:53:24
+----------------------------------ECGFiveDays-----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  1.000000
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.117481
+time_test_seconds              1.503457
+time_transform_seconds         1.590210
+Name: ECGFiveDays, dtype: float64
+2021-12-08 02:53:32
+------------------------------EOGHorizontalSignal-------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.582320
+accuracy_standard_deviation     0.011772
+time_training_seconds           6.308154
+time_test_seconds               5.985132
+time_transform_seconds         11.961876
+Name: EOGHorizontalSignal, dtype: float64
+2021-12-08 02:54:34
+-------------------------------EOGVerticalSignal--------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.554144
+accuracy_standard_deviation     0.012550
+time_training_seconds           6.287035
+time_test_seconds               5.990056
+time_transform_seconds         11.950736
+Name: EOGVerticalSignal, dtype: float64
+2021-12-08 02:55:36
+----------------------------------Earthquakes-----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.748201
+accuracy_standard_deviation    0.000000
+time_training_seconds          2.487721
+time_test_seconds              0.974761
+time_transform_seconds         3.177999
+Name: Earthquakes, dtype: float64
+2021-12-08 02:55:54
+--------------------------------ElectricDevices---------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.727351
+accuracy_standard_deviation     0.000823
+time_training_seconds          81.408772
+time_test_seconds               9.562694
+time_transform_seconds         19.819446
+Name: ElectricDevices, dtype: float64
+2021-12-08 03:03:30
+----------------------------------EthanolLevel----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.580800
+accuracy_standard_deviation     0.010167
+time_training_seconds          12.170164
+time_test_seconds              11.678731
+time_transform_seconds         23.357297
+Name: EthanolLevel, dtype: float64
+2021-12-08 03:05:30
+------------------------------------FaceAll-------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.946036
+accuracy_standard_deviation    0.003499
+time_training_seconds          1.535737
+time_test_seconds              2.827633
+time_transform_seconds         3.760420
+Name: FaceAll, dtype: float64
+2021-12-08 03:05:52
+------------------------------------FaceFour------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.972727
+accuracy_standard_deviation    0.005567
+time_training_seconds          0.215394
+time_test_seconds              0.439372
+time_transform_seconds         0.637035
+Name: FaceFour, dtype: float64
+2021-12-08 03:05:55
+------------------------------------FacesUCR------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.961659
+accuracy_standard_deviation    0.000662
+time_training_seconds          0.557540
+time_test_seconds              3.548193
+time_transform_seconds         3.852244
+Name: FacesUCR, dtype: float64
+2021-12-08 03:06:16
+-----------------------------------FiftyWords-----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.825934
+accuracy_standard_deviation    0.005088
+time_training_seconds          2.022922
+time_test_seconds              1.649178
+time_transform_seconds         3.216683
+Name: FiftyWords, dtype: float64
+2021-12-08 03:06:35
+--------------------------------------Fish--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.976000
+accuracy_standard_deviation    0.008398
+time_training_seconds          1.275777
+time_test_seconds              1.079169
+time_transform_seconds         2.205796
+Name: Fish, dtype: float64
+2021-12-08 03:06:47
+-------------------------------------FordA--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.943030
+accuracy_standard_deviation     0.003264
+time_training_seconds          32.036913
+time_test_seconds               8.457820
+time_transform_seconds         31.362096
+Name: FordA, dtype: float64
+2021-12-08 03:10:10
+-------------------------------------FordB--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.805679
+accuracy_standard_deviation     0.006324
+time_training_seconds          32.404968
+time_test_seconds               5.226809
+time_transform_seconds         28.388965
+Name: FordB, dtype: float64
+2021-12-08 03:13:20
+------------------------------FreezerRegularTrain-------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.997333
+accuracy_standard_deviation     0.000476
+time_training_seconds           0.790964
+time_test_seconds              11.043544
+time_transform_seconds         11.584624
+Name: FreezerRegularTrain, dtype: float64
+2021-12-08 03:14:19
+-------------------------------FreezerSmallTrain--------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.949544
+accuracy_standard_deviation     0.003441
+time_training_seconds           0.199925
+time_test_seconds              10.936678
+time_transform_seconds         11.049288
+Name: FreezerSmallTrain, dtype: float64
+2021-12-08 03:15:16
+-------------------------------------Fungi--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  9.946237e-01
+accuracy_standard_deviation    1.110223e-16
+time_training_seconds          1.442947e-01
+time_test_seconds              5.089333e-01
+time_transform_seconds         6.290526e-01
+Name: Fungi, dtype: float64
+2021-12-08 03:15:19
+--------------------------------GestureMidAirD1---------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.773846
+accuracy_standard_deviation    0.003768
+time_training_seconds          1.226098
+time_test_seconds              0.661480
+time_transform_seconds         1.704602
+Name: GestureMidAirD1, dtype: float64
+2021-12-08 03:15:29
+--------------------------------GestureMidAirD2---------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.667692
+accuracy_standard_deviation    0.012308
+time_training_seconds          1.236407
+time_test_seconds              0.668402
+time_transform_seconds         1.715796
+Name: GestureMidAirD2, dtype: float64
+2021-12-08 03:15:38
+--------------------------------GestureMidAirD3---------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.396923
+accuracy_standard_deviation    0.011513
+time_training_seconds          1.212660
+time_test_seconds              0.664896
+time_transform_seconds         1.686474
+Name: GestureMidAirD3, dtype: float64
+2021-12-08 03:15:48
+--------------------------------GesturePebbleZ1---------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.904651
+accuracy_standard_deviation    0.002848
+time_training_seconds          1.004896
+time_test_seconds              1.064452
+time_transform_seconds         1.938986
+Name: GesturePebbleZ1, dtype: float64
+2021-12-08 03:15:59
+--------------------------------GesturePebbleZ2---------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.832911
+accuracy_standard_deviation    0.011739
+time_training_seconds          1.115339
+time_test_seconds              0.983899
+time_transform_seconds         1.969218
+Name: GesturePebbleZ2, dtype: float64
+2021-12-08 03:16:09
+------------------------------------GunPoint------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  1.000000
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.212157
+time_test_seconds              0.306164
+time_transform_seconds         0.481656
+Name: GunPoint, dtype: float64
+2021-12-08 03:16:12
+--------------------------------GunPointAgeSpan---------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.991139
+accuracy_standard_deviation    0.002368
+time_training_seconds          0.474504
+time_test_seconds              0.610943
+time_transform_seconds         0.948610
+Name: GunPointAgeSpan, dtype: float64
+2021-12-08 03:16:18
+----------------------------GunPointMaleVersusFemale----------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.998734
+accuracy_standard_deviation    0.001550
+time_training_seconds          0.455807
+time_test_seconds              0.628926
+time_transform_seconds         0.950657
+Name: GunPointMaleVersusFemale, dtype: float64
+2021-12-08 03:16:23
+-----------------------------GunPointOldVersusYoung-----------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  1.000000
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.478641
+time_test_seconds              0.625343
+time_transform_seconds         0.947229
+Name: GunPointOldVersusYoung, dtype: float64
+2021-12-08 03:16:29
+--------------------------------------Ham---------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.723810
+accuracy_standard_deviation    0.015936
+time_training_seconds          0.808444
+time_test_seconds              0.628592
+time_transform_seconds         1.320882
+Name: Ham, dtype: float64
+2021-12-08 03:16:36
+----------------------------------HandOutlines----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.941081
+accuracy_standard_deviation     0.005241
+time_training_seconds          37.043856
+time_test_seconds              13.423848
+time_transform_seconds         49.347685
+Name: HandOutlines, dtype: float64
+2021-12-08 03:20:50
+------------------------------------Haptics-------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.520779
+accuracy_standard_deviation    0.005275
+time_training_seconds          2.391741
+time_test_seconds              4.431684
+time_transform_seconds         6.708100
+Name: Haptics, dtype: float64
+2021-12-08 03:21:25
+------------------------------------Herring-------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.696875
+accuracy_standard_deviation    0.007655
+time_training_seconds          0.517575
+time_test_seconds              0.424890
+time_transform_seconds         0.901856
+Name: Herring, dtype: float64
+2021-12-08 03:21:30
+----------------------------------HouseTwenty-----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.957983
+accuracy_standard_deviation    0.005315
+time_training_seconds          1.317159
+time_test_seconds              3.187886
+time_transform_seconds         4.477316
+Name: HouseTwenty, dtype: float64
+2021-12-08 03:21:53
+----------------------------------InlineSkate-----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.463636
+accuracy_standard_deviation     0.004146
+time_training_seconds           2.850673
+time_test_seconds              13.674861
+time_transform_seconds         16.413963
+Name: InlineSkate, dtype: float64
+2021-12-08 03:23:16
+-----------------------------InsectEPGRegularTrain------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  1.000000
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.588328
+time_test_seconds              1.964564
+time_transform_seconds         2.510590
+Name: InsectEPGRegularTrain, dtype: float64
+2021-12-08 03:23:29
+------------------------------InsectEPGSmallTrain-------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  1.000000
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.271219
+time_test_seconds              1.967862
+time_transform_seconds         2.220442
+Name: InsectEPGSmallTrain, dtype: float64
+2021-12-08 03:23:40
+------------------------------InsectWingbeatSound-------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.657475
+accuracy_standard_deviation    0.000869
+time_training_seconds          0.978602
+time_test_seconds              6.620007
+time_transform_seconds         7.308051
+Name: InsectWingbeatSound, dtype: float64
+2021-12-08 03:24:19
+--------------------------------ItalyPowerDemand--------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.969096
+accuracy_standard_deviation    0.000389
+time_training_seconds          0.115564
+time_test_seconds              0.389364
+time_transform_seconds         0.412466
+Name: ItalyPowerDemand, dtype: float64
+2021-12-08 03:24:21
+-----------------------------LargeKitchenAppliances-----------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.903467
+accuracy_standard_deviation    0.001067
+time_training_seconds          3.904751
+time_test_seconds              3.542112
+time_transform_seconds         7.093510
+Name: LargeKitchenAppliances, dtype: float64
+2021-12-08 03:24:59
+-----------------------------------Lightning2-----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.770492
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.641453
+time_test_seconds              0.553810
+time_transform_seconds         1.148800
+Name: Lightning2, dtype: float64
+2021-12-08 03:25:05
+-----------------------------------Lightning7-----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.819178
+accuracy_standard_deviation    0.005479
+time_training_seconds          0.444206
+time_test_seconds              0.326343
+time_transform_seconds         0.692760
+Name: Lightning7, dtype: float64
+2021-12-08 03:25:09
+-------------------------------------Mallat-------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.956674
+accuracy_standard_deviation     0.001781
+time_training_seconds           0.904725
+time_test_seconds              31.389847
+time_transform_seconds         32.156829
+Name: Mallat, dtype: float64
+2021-12-08 03:27:52
+--------------------------------------Meat--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.943333
+accuracy_standard_deviation    0.008165
+time_training_seconds          0.471788
+time_test_seconds              0.387695
+time_transform_seconds         0.816212
+Name: Meat, dtype: float64
+2021-12-08 03:27:56
+---------------------------------MedicalImages----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.798158
+accuracy_standard_deviation    0.003391
+time_training_seconds          0.903888
+time_test_seconds              1.027963
+time_transform_seconds         1.522820
+Name: MedicalImages, dtype: float64
+2021-12-08 03:28:06
+------------------------------MelbournePedestrian-------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.943501
+accuracy_standard_deviation    0.002559
+time_training_seconds          1.754921
+time_test_seconds              0.877582
+time_transform_seconds         1.229592
+Name: MelbournePedestrian, dtype: float64
+2021-12-08 03:28:20
+--------------------------MiddlePhalanxOutlineAgeGroup--------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.587013
+accuracy_standard_deviation    0.006622
+time_training_seconds          0.788373
+time_test_seconds              0.182172
+time_transform_seconds         0.640272
+Name: MiddlePhalanxOutlineAgeGroup, dtype: float64
+2021-12-08 03:28:25
+--------------------------MiddlePhalanxOutlineCorrect---------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.834364
+accuracy_standard_deviation    0.007956
+time_training_seconds          1.206083
+time_test_seconds              0.327143
+time_transform_seconds         0.968256
+Name: MiddlePhalanxOutlineCorrect, dtype: float64
+2021-12-08 03:28:32
+--------------------------------MiddlePhalanxTW---------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.558442
+accuracy_standard_deviation    0.004107
+time_training_seconds          0.846679
+time_test_seconds              0.192843
+time_transform_seconds         0.661334
+Name: MiddlePhalanxTW, dtype: float64
+2021-12-08 03:28:38
+----------------------------MixedShapesRegularTrain-----------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.970557
+accuracy_standard_deviation     0.000926
+time_training_seconds           7.140952
+time_test_seconds              32.333870
+time_transform_seconds         38.959813
+Name: MixedShapesRegularTrain, dtype: float64
+2021-12-08 03:31:57
+-----------------------------MixedShapesSmallTrain------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.937567
+accuracy_standard_deviation     0.001184
+time_training_seconds           1.561484
+time_test_seconds              32.109187
+time_transform_seconds         33.500608
+Name: MixedShapesSmallTrain, dtype: float64
+2021-12-08 03:34:46
+-----------------------------------MoteStrain-----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.915335
+accuracy_standard_deviation    0.001429
+time_training_seconds          0.087948
+time_test_seconds              1.370053
+time_transform_seconds         1.412793
+Name: MoteStrain, dtype: float64
+2021-12-08 03:34:54
+---------------------------NonInvasiveFetalECGThorax1---------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.950433
+accuracy_standard_deviation     0.002244
+time_training_seconds          19.891370
+time_test_seconds              19.082893
+time_transform_seconds         36.420248
+Name: NonInvasiveFetalECGThorax1, dtype: float64
+2021-12-08 03:38:10
+---------------------------NonInvasiveFetalECGThorax2---------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.967939
+accuracy_standard_deviation     0.001672
+time_training_seconds          19.979253
+time_test_seconds              19.315603
+time_transform_seconds         36.647601
+Name: NonInvasiveFetalECGThorax2, dtype: float64
+2021-12-08 03:41:28
+------------------------------------OSULeaf-------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.937190
+accuracy_standard_deviation    0.006612
+time_training_seconds          1.378237
+time_test_seconds              1.388039
+time_transform_seconds         2.565816
+Name: OSULeaf, dtype: float64
+2021-12-08 03:41:42
+------------------------------------OliveOil------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.926667
+accuracy_standard_deviation    0.013333
+time_training_seconds          0.316333
+time_test_seconds              0.234586
+time_transform_seconds         0.533061
+Name: OliveOil, dtype: float64
+2021-12-08 03:41:45
+-------------------------------------PLAID--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.806331
+accuracy_standard_deviation     0.009712
+time_training_seconds          10.091938
+time_test_seconds               9.559183
+time_transform_seconds         19.100807
+Name: PLAID, dtype: float64
+2021-12-08 03:43:24
+----------------------------PhalangesOutlinesCorrect----------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.836131
+accuracy_standard_deviation    0.008802
+time_training_seconds          4.404171
+time_test_seconds              0.908943
+time_transform_seconds         2.763307
+Name: PhalangesOutlinesCorrect, dtype: float64
+2021-12-08 03:43:51
+------------------------------------Phoneme-------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.282173
+accuracy_standard_deviation     0.002428
+time_training_seconds           3.138977
+time_test_seconds              25.177149
+time_transform_seconds         27.985171
+Name: Phoneme, dtype: float64
+2021-12-08 03:46:14
+-----------------------------PickupGestureWiimoteZ------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.796000
+accuracy_standard_deviation    0.008000
+time_training_seconds          0.371204
+time_test_seconds              0.288887
+time_transform_seconds         0.623972
+Name: PickupGestureWiimoteZ, dtype: float64
+2021-12-08 03:46:17
+-------------------------------PigAirwayPressure--------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.809615
+accuracy_standard_deviation    0.007812
+time_training_seconds          3.057570
+time_test_seconds              5.598549
+time_transform_seconds         8.521282
+Name: PigAirwayPressure, dtype: float64
+2021-12-08 03:47:01
+---------------------------------PigArtPressure---------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.954808
+accuracy_standard_deviation    0.004903
+time_training_seconds          3.032071
+time_test_seconds              5.597053
+time_transform_seconds         8.511418
+Name: PigArtPressure, dtype: float64
+2021-12-08 03:47:44
+-------------------------------------PigCVP-------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.932692
+accuracy_standard_deviation    0.000000
+time_training_seconds          3.049383
+time_test_seconds              5.568452
+time_transform_seconds         8.470955
+Name: PigCVP, dtype: float64
+2021-12-08 03:48:28
+-------------------------------------Plane--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  1.000000
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.343758
+time_test_seconds              0.209478
+time_transform_seconds         0.477232
+Name: Plane, dtype: float64
+2021-12-08 03:48:31
+-----------------------------------PowerCons------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.987778
+accuracy_standard_deviation    0.005443
+time_training_seconds          0.552516
+time_test_seconds              0.350927
+time_transform_seconds         0.751481
+Name: PowerCons, dtype: float64
+2021-12-08 03:48:35
+-------------------------ProximalPhalanxOutlineAgeGroup-------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.855610
+accuracy_standard_deviation    0.002390
+time_training_seconds          0.838337
+time_test_seconds              0.232132
+time_transform_seconds         0.695515
+Name: ProximalPhalanxOutlineAgeGroup, dtype: float64
+2021-12-08 03:48:41
+-------------------------ProximalPhalanxOutlineCorrect--------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.899656
+accuracy_standard_deviation    0.003367
+time_training_seconds          1.200516
+time_test_seconds              0.321612
+time_transform_seconds         0.969210
+Name: ProximalPhalanxOutlineCorrect, dtype: float64
+2021-12-08 03:48:48
+-------------------------------ProximalPhalanxTW--------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.817561
+accuracy_standard_deviation    0.004975
+time_training_seconds          0.773599
+time_test_seconds              0.234476
+time_transform_seconds         0.680613
+Name: ProximalPhalanxTW, dtype: float64
+2021-12-08 03:48:54
+------------------------------RefrigerationDevices------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.531200
+accuracy_standard_deviation    0.010586
+time_training_seconds          3.914854
+time_test_seconds              3.536161
+time_transform_seconds         7.083825
+Name: RefrigerationDevices, dtype: float64
+2021-12-08 03:49:31
+--------------------------------------Rock--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.676000
+accuracy_standard_deviation    0.008000
+time_training_seconds          1.009286
+time_test_seconds              2.084041
+time_transform_seconds         3.073526
+Name: Rock, dtype: float64
+2021-12-08 03:49:47
+-----------------------------------ScreenType-----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.485333
+accuracy_standard_deviation    0.005842
+time_training_seconds          3.878009
+time_test_seconds              3.524798
+time_transform_seconds         7.064168
+Name: ScreenType, dtype: float64
+2021-12-08 03:50:24
+-------------------------------SemgHandGenderCh2--------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.888000
+accuracy_standard_deviation     0.007409
+time_training_seconds           6.233192
+time_test_seconds              11.772503
+time_transform_seconds         17.738808
+Name: SemgHandGenderCh2, dtype: float64
+2021-12-08 03:51:55
+------------------------------SemgHandMovementCh2-------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.604000
+accuracy_standard_deviation     0.005145
+time_training_seconds           9.418656
+time_test_seconds               8.946092
+time_transform_seconds         17.897026
+Name: SemgHandMovementCh2, dtype: float64
+2021-12-08 03:53:28
+-------------------------------SemgHandSubjectCh2-------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.845333
+accuracy_standard_deviation     0.006061
+time_training_seconds           9.390053
+time_test_seconds               9.012409
+time_transform_seconds         17.981551
+Name: SemgHandSubjectCh2, dtype: float64
+2021-12-08 03:55:00
+------------------------------ShakeGestureWiimoteZ------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.924000
+accuracy_standard_deviation    0.008000
+time_training_seconds          0.400733
+time_test_seconds              0.312461
+time_transform_seconds         0.671991
+Name: ShakeGestureWiimoteZ, dtype: float64
+2021-12-08 03:55:04
+----------------------------------ShapeletSim-----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  1.000000
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.259265
+time_test_seconds              1.216093
+time_transform_seconds         1.458672
+Name: ShapeletSim, dtype: float64
+2021-12-08 03:55:12
+-----------------------------------ShapesAll------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.911000
+accuracy_standard_deviation    0.004028
+time_training_seconds          4.583307
+time_test_seconds              3.988635
+time_transform_seconds         7.941926
+Name: ShapesAll, dtype: float64
+2021-12-08 03:55:55
+-----------------------------SmallKitchenAppliances-----------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.816533
+accuracy_standard_deviation    0.001996
+time_training_seconds          3.894649
+time_test_seconds              3.536900
+time_transform_seconds         7.095120
+Name: SmallKitchenAppliances, dtype: float64
+2021-12-08 03:56:32
+---------------------------------SmoothSubspace---------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.973333
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.179840
+time_test_seconds              0.048083
+time_transform_seconds         0.134861
+Name: SmoothSubspace, dtype: float64
+2021-12-08 03:56:34
+-----------------------------SonyAIBORobotSurface1------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.923794
+accuracy_standard_deviation    0.001940
+time_training_seconds          0.097301
+time_test_seconds              0.569327
+time_transform_seconds         0.623544
+Name: SonyAIBORobotSurface1, dtype: float64
+2021-12-08 03:56:37
+-----------------------------SonyAIBORobotSurface2------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.914166
+accuracy_standard_deviation    0.003210
+time_training_seconds          0.091958
+time_test_seconds              0.824856
+time_transform_seconds         0.861323
+Name: SonyAIBORobotSurface2, dtype: float64
+2021-12-08 03:56:42
+--------------------------------StarLightCurves---------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                    0.980864
+accuracy_standard_deviation      0.000357
+time_training_seconds           14.358783
+time_test_seconds              108.833964
+time_transform_seconds         121.942618
+Name: StarLightCurves, dtype: float64
+2021-12-08 04:07:02
+-----------------------------------Strawberry-----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.981081
+accuracy_standard_deviation    0.000000
+time_training_seconds          2.443580
+time_test_seconds              1.163777
+time_transform_seconds         3.050287
+Name: Strawberry, dtype: float64
+2021-12-08 04:07:21
+----------------------------------SwedishLeaf-----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.963520
+accuracy_standard_deviation    0.001197
+time_training_seconds          1.299954
+time_test_seconds              1.058236
+time_transform_seconds         1.896176
+Name: SwedishLeaf, dtype: float64
+2021-12-08 04:07:33
+------------------------------------Symbols-------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.973869
+accuracy_standard_deviation    0.000636
+time_training_seconds          0.224852
+time_test_seconds              5.083196
+time_transform_seconds         5.255033
+Name: Symbols, dtype: float64
+2021-12-08 04:08:00
+--------------------------------SyntheticControl--------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.999333
+accuracy_standard_deviation    0.001333
+time_training_seconds          0.540445
+time_test_seconds              0.265018
+time_transform_seconds         0.537527
+Name: SyntheticControl, dtype: float64
+2021-12-08 04:08:04
+--------------------------------ToeSegmentation1--------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.968421
+accuracy_standard_deviation    0.004297
+time_training_seconds          0.264985
+time_test_seconds              0.846019
+time_transform_seconds         1.078362
+Name: ToeSegmentation1, dtype: float64
+2021-12-08 04:08:09
+--------------------------------ToeSegmentation2--------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.921538
+accuracy_standard_deviation    0.003077
+time_training_seconds          0.290445
+time_test_seconds              0.616297
+time_transform_seconds         0.884794
+Name: ToeSegmentation2, dtype: float64
+2021-12-08 04:08:14
+-------------------------------------Trace--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  1.000000
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.562976
+time_test_seconds              0.388683
+time_transform_seconds         0.835612
+Name: Trace, dtype: float64
+2021-12-08 04:08:19
+-----------------------------------TwoLeadECG-----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.999122
+accuracy_standard_deviation    0.000000
+time_training_seconds          0.087220
+time_test_seconds              1.219577
+time_transform_seconds         1.262557
+Name: TwoLeadECG, dtype: float64
+2021-12-08 04:08:26
+----------------------------------TwoPatterns-----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  1.000000
+accuracy_standard_deviation    0.000000
+time_training_seconds          2.663001
+time_test_seconds              6.494053
+time_transform_seconds         8.028414
+Name: TwoPatterns, dtype: float64
+2021-12-08 04:09:12
+--------------------------------------UMD---------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  9.861111e-01
+accuracy_standard_deviation    1.110223e-16
+time_training_seconds          1.802869e-01
+time_test_seconds              3.076520e-01
+time_transform_seconds         4.624759e-01
+Name: UMD, dtype: float64
+2021-12-08 04:09:14
+-----------------------------UWaveGestureLibraryAll-----------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.975824
+accuracy_standard_deviation     0.000418
+time_training_seconds          11.815181
+time_test_seconds              43.692056
+time_transform_seconds         54.495917
+Name: UWaveGestureLibraryAll, dtype: float64
+2021-12-08 04:13:54
+------------------------------UWaveGestureLibraryX------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.854160
+accuracy_standard_deviation     0.001753
+time_training_seconds           4.482553
+time_test_seconds              14.378848
+time_transform_seconds         17.879102
+Name: UWaveGestureLibraryX, dtype: float64
+2021-12-08 04:15:29
+------------------------------UWaveGestureLibraryY------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.773479
+accuracy_standard_deviation     0.001205
+time_training_seconds           4.473493
+time_test_seconds              14.345391
+time_transform_seconds         17.815966
+Name: UWaveGestureLibraryY, dtype: float64
+2021-12-08 04:17:04
+------------------------------UWaveGestureLibraryZ------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.792406
+accuracy_standard_deviation     0.001681
+time_training_seconds           4.490579
+time_test_seconds              14.438325
+time_transform_seconds         17.871425
+Name: UWaveGestureLibraryZ, dtype: float64
+2021-12-08 04:18:40
+-------------------------------------Wafer--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.998183
+accuracy_standard_deviation     0.000189
+time_training_seconds           2.885658
+time_test_seconds              11.831288
+time_transform_seconds         13.647383
+Name: Wafer, dtype: float64
+2021-12-08 04:19:54
+--------------------------------------Wine--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.800000
+accuracy_standard_deviation    0.047431
+time_training_seconds          0.286174
+time_test_seconds              0.201723
+time_transform_seconds         0.447561
+Name: Wine, dtype: float64
+2021-12-08 04:19:56
+----------------------------------WordSynonyms----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.755486
+accuracy_standard_deviation    0.002974
+time_training_seconds          1.200424
+time_test_seconds              2.240378
+time_transform_seconds         3.175078
+Name: WordSynonyms, dtype: float64
+2021-12-08 04:20:14
+-------------------------------------Worms--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.729870
+accuracy_standard_deviation    0.005195
+time_training_seconds          2.330864
+time_test_seconds              0.985031
+time_transform_seconds         3.193482
+Name: Worms, dtype: float64
+2021-12-08 04:20:31
+---------------------------------WormsTwoClass----------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                  0.797403
+accuracy_standard_deviation    0.006362
+time_training_seconds          2.350371
+time_test_seconds              0.997437
+time_transform_seconds         3.199964
+Name: WormsTwoClass, dtype: float64
+2021-12-08 04:20:48
+--------------------------------------Yoga--------------------------------------
+Loading data...............................................................Done.
+Performing runs............................................................Done.
+accuracy_mean                   0.909733
+accuracy_standard_deviation     0.003974
+time_training_seconds           1.968621
+time_test_seconds              16.310514
+time_transform_seconds         17.904759
+Name: Yoga, dtype: float64
+====================================FINISHED====================================
